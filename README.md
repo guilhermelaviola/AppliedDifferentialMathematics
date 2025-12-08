@@ -1,2 +1,2 @@
-# AppliedDifferentialMathematics
-My school homework from #DescomplicaDigital on Applied Differential Mathematics.
+# Applied Differential Mathematics
+My school homework from **#DescomplicaDigital** on Applied Differential Mathematics, which focuses on using differential equations (DEs)—equations involving functions and their rates of change (derivatives)—to model and solve real-world problems in science, engineering, biology, and finance, bridging pure math theory with practical applications like fluid dynamics, population growth, and quantum mechanics. It covers Ordinary DEs (ODEs) for single-variable systems and Partial DEs (PDEs) for multi-variable phenomena, incorporating numerical methods and computer tools like MATLAB for complex solutions.
